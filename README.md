@@ -34,5 +34,6 @@ pkg update
 
  ls
 
-  python2 Coder.co
+  python2 coder.co
+
 Enjoy
