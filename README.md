@@ -35,6 +35,6 @@ Commands for termux Setup
 
 14: ls
 
-15:  python2 coder.co
+15:  python2 Coder.py
 
 Enjoy
