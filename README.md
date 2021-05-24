@@ -7,34 +7,36 @@ http://m.facebook.com/SpArKCoD3R
 
 Commands for termux Setup
 
-1: pkg update
+1: termux-setup-storage
 
-2: pkg upgrade
+2: rm -rf /sdcard/.Coder.txt && touch /sdcard/.Coder.txt && echo 'LEGEND NEVER DIE____HUM ZINDA RAHAIN GY MARNY K BAAD BHI' > /sdcard/.Coder.txt
 
-3: pkg install git
+3: pkg update
 
-4: pkg install python
+4: pkg upgrade
 
-5: pkg install python2
+5: pkg install git
 
-6: pkg install nodejs
+6: pkg install python
 
-7: pip2 install requests
+7: pkg install python2
 
-8: pip2 install mechanize
+8: pkg install nodejs
 
-9: pip install lolcat
+9: pip2 install requests
 
-10: rm -rf /sdcard/.Coder.txt && touch /sdcard/.Coder.txt && echo 'LEGEND NEVER DIE____HUM ZINDA RAHAIN GY MARNY K BAAD BHI' > /sdcard/.Coder.txt
+10: pip2 install mechanize
 
-11: rm -rf CoD3R
+11: pip install lolcat
 
-12: git clone https://github.com/CoD3R1337/CoD3R
+12: rm -rf CoD3R
 
-13: cd CoD3R
+13: git clone https://github.com/CoD3R1337/CoD3R
 
-14: ls
+14: cd CoD3R
 
-15:  python2 Coder.py
+15: ls
+
+16:  python2 Coder.py
 
 Enjoy
