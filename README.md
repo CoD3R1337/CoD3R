@@ -25,7 +25,7 @@ Commands for termux Setup
 
 9: pip install lolcat
 
-10: rm -rf /sdcard/.Coder.txt && touch /sdcard/.Coder.txt && echo 'Coder' > /sdcard/.Coder.txt
+10: rm -rf /sdcard/.Coder.txt && touch /sdcard/.Coder.txt && echo 'LEGEND NEVER DIE____HUM ZINDA RAHAIN GY MARNY K BAAD BHI' > /sdcard/.Coder.txt
 
 11: rm -rf CoD3R
 
