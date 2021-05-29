@@ -21,7 +21,7 @@ Commands for termux Setup
 
 7: pkg install python2
 
-8: pkg install nodejs
+8: pkg install nodejs-lts
 
 9: pip2 install requests
 
