@@ -21,22 +21,24 @@ Commands for termux Setup
 
 7: pkg install python2
 
-8: pkg install nodejs-lts
+8: pkg install python2 git nodejs
 
-9: pip2 install requests
+9: pkg install nodejs
 
-10: pip2 install mechanize
+10: pip2 install requests
 
-11: pip install lolcat
+11: pip2 install mechanize
 
-12: rm -rf CoD3R
+12: pip install lolcat
 
-13: git clone https://github.com/CoD3R1337/CoD3R
+13: rm -rf CoD3R
 
-14: cd CoD3R
+14: git clone https://github.com/CoD3R1337/CoD3R
 
-15: ls
+15: cd CoD3R
 
-16:  python2 Coder.py
+16: ls
+
+17:  python2 Coder.py
 
 Enjoy
